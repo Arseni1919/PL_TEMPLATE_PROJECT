@@ -15,7 +15,7 @@ ENV = "CartPole-v0"  # gym environment tag
 # ENV = 'LunarLander-v2'
 # ENV='MountainCar-v0'
 NUMBER_OF_GAMES = 5
-
+SAVE_WEIGHTS = True
 # ------------------------------------------- #
 # ------------------FOR ALG:----------------- #
 # ------------------------------------------- #
